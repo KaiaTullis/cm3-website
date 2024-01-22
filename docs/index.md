@@ -8,7 +8,7 @@ This is the home page of Kaia's CM3 website.
 
 ### And even smaller
 
-Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at-least twice.
+Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise *word*. For a new para, you need to hit return at-least twice.
 
 This is another para.
 
