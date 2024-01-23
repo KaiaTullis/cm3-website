@@ -37,7 +37,7 @@ New list method
 - <font color="purple"> Some purple text </font>
 
 <input id="color_picker" type="color" onchange="showHex();"> <span id="color_hex_value"></span>
-  <h1>COLOR ME !</h1>
+  <h1>COLOR ME!</h1>
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
@@ -49,13 +49,13 @@ This shorthand is called Markdown. It is a general text format used almost every
 
 <details>
   <summary>Symbol Test</summary>
-  <p>.......#.......</p>
-  <p>.....#...#.....</p>
-  <p>....#.....#....</p>
-  <p>...#.......#...</p>
-  <p>....#.....#....</p>
-  <p>.....#...#.....</p>
-  <p>.......#.......</p>
+  <p>..........#.......</p>
+  <p>.......#.....#.....</p>
+  <p>....#...........#....</p>
+  <p>..#...............#...</p>
+  <p>....#...........#....</p>
+  <p>.......#......#.....</p>
+  <p>..........#.......</p>
 </details>
 
 
