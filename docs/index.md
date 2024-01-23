@@ -46,13 +46,13 @@ This shorthand is called Markdown. It is a general text format used almost every
 
 <details>
   <summary>Symbol Test</summary>
-  <p>       #     </p>
-  <p>     #   #     </p>
-  <p>    #     #  </p>
-  <p>   #       # </p>
-  <p>    #     # </p>
-  <p>     #   #    </p>
-  <p>       #     </p>
+  <p>.......#.......</p>
+  <p>.....#...#.....</p>
+  <p>....#.....#....</p>
+  <p>...#.......#...</p>
+  <p>....#.....#....</p>
+  <p>.....#...#.....</p>
+  <p>.......#.......</p>
 </details>
 
 
