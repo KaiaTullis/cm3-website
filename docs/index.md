@@ -12,9 +12,11 @@ This is the home page of Kaia's CM3 website.
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise *word*. For a new para, you need to hit return at-least twice.
 
+
+**B** *O* **L** *D*
+
 This is another para.
 
-`Can you see this`
   
 In this one, we show some lists. just start the list on the next line after hitting one return:
 - an item
@@ -28,16 +30,27 @@ In this new para, we create a numbered list using numbers.
 
 <font color="red"> Some red text </font>
 
+<!-- This is commented out. -->
+
 <font color="orange"> Some orange text </font>
+
+<!-- This is commented out. -->
 
 <font color="yellow"> Some yellow text </font>
 
+<!-- This is commented out. -->
+
 <font color="green"> Some green text </font>
+
+<!-- This is commented out. -->
 
 <font color="blue"> Some blue text </font>
 
+<!-- This is commented out. -->
+
 <font color="purple"> Some purple text </font>
 
+<!-- This is commented out. -->
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
