@@ -49,4 +49,8 @@ Here is an image:
 
 ![cute dog](https://i.imgur.com/dY93WHQ.jpeg)
 
+Here is a better image:
+
+![Cuter dog](https://media.npr.org/assets/img/2022/05/25/gettyimages-917452888-edit_custom-c656c35e4e40bf22799195af846379af6538810c-s1100-c50.jpg)
+
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
