@@ -44,6 +44,18 @@ This shorthand is called Markdown. It is a general text format used almost every
   <p>Have you seen a white rabbit?</p>
 </details>
 
+<details>
+  <summary>Symbol Test</summary>
+  <p>       #     </p>
+  <p>     #   #     </p>
+  <p>    #     #  </p>
+  <p>   #       # </p>
+  <p>    #     # </p>
+  <p>     #   #    </p>
+  <p>       #     </p>
+</details>
+
+
 You can write code by using triple-ticks:
 
 ```python
