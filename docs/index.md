@@ -4,13 +4,15 @@ title: Home Page
 
 This is the home page of Kaia's CM3 website.
 
-## A smaller level Heading
+## Practice Compsci Assignment
 
-### And even smaller
+### My coding playground
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise *word*. For a new para, you need to hit return at-least twice.
 
 This is another para.
+
+//Can you see this
 
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
