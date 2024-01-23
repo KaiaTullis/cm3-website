@@ -27,30 +27,14 @@ In this new para, we create a numbered list using numbers.
 2. second item
 
 **Color Experiments**
+New list method 
 
-<font color="red"> Some red text </font>
-
-<!-- This is commented out. -->
-
-<font color="orange"> Some orange text </font>
-
-<!-- This is commented out. -->
-
-<font color="yellow"> Some yellow text </font>
-
-<!-- This is commented out. -->
-
-<font color="green"> Some green text </font>
-
-<!-- This is commented out. -->
-
-<font color="blue"> Some blue text </font>
-
-<!-- This is commented out. -->
-
-<font color="purple"> Some purple text </font>
-
-<!-- This is commented out. -->
+- <font color="red"> Some red text </font>
+- <font color="orange"> Some orange text </font>
+- <font color="yellow"> Some yellow text </font>
+- <font color="green"> Some green text </font>
+- <font color="blue"> Some blue text </font>
+- <font color="purple"> Some purple text </font>
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
