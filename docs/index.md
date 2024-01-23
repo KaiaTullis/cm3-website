@@ -8,6 +8,8 @@ This is the home page of Kaia's CM3 website.
 
 ### My coding playground
 
+<!-- This is commented out. -->
+
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise *word*. For a new para, you need to hit return at-least twice.
 
 This is another para.
@@ -23,12 +25,19 @@ In this new para, we create a numbered list using numbers.
 2. second item
 
 **Color Experiments**
+
 <font color="red"> Some red text </font>
+
 <font color="orange"> Some orange text </font>
+
 <font color="yellow"> Some yellow text </font>
+
 <font color="green"> Some green text </font>
+
 <font color="blue"> Some blue text </font>
+
 <font color="purple"> Some purple text </font>
+
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
