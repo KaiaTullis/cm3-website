@@ -12,19 +12,23 @@ Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to ita
 
 This is another para.
 
-<Can you see this>
 `Can you see this`
   
-In this one we show some lists. just start the lista on the next line after hitting one return:
+In this one, we show some lists. just start the list on the next line after hitting one return:
 - an item
 - another item
 
-In this new para we create a numbered list using numbers.
+In this new para, we create a numbered list using numbers.
 1. first item
 2. second item
 
 **Color Experiments**
+<font color="red"> Some red text </font>
+<font color="orange"> Some orange text </font>
+<font color="yellow"> Some yellow text </font>
 <font color="green"> Some green text </font>
+<font color="blue"> Some blue text </font>
+<font color="purple"> Some purple text </font>
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
