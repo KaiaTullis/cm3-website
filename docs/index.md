@@ -58,6 +58,18 @@ This shorthand is called Markdown. It is a general text format used almost every
   <p>..........#.......</p>
 </details>
 
+**Drop Down Menu with options
+
+<input list="Teammates" name="Teammates" id="Teammates">
+
+<datalist id="Teammates">
+    <option value="Kaia">
+    <option value="Vicky">
+    <option value="Kyle">
+    <option value="Gabriel">
+    <option value="Alexandra">
+  </datalist>
+  
 <!-- This is commented out. -->
 
 You can write code by using triple-ticks:
