@@ -91,10 +91,9 @@ DO NOT SCROLL
 
 [Link to first practice](practice1.md)
 
-<input list="animals" name="animal" id="animal">
-
 Drop Down Menu With Options
 
+<input list="animals" name="animal" id="animal">
 <datalist id="animals">
     <option value="Cat">
     <option value="Dog">
