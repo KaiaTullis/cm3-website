@@ -61,7 +61,6 @@ This shorthand is called Markdown. It is a general text format used almost every
 **Drop Down Menu with options
 
 <input list="Teammates" name="Teammates" id="Teammates">
-
 <datalist id="Teammates">
     <option value="Kaia">
     <option value="Vicky">
