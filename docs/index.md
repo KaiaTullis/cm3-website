@@ -58,17 +58,6 @@ This shorthand is called Markdown. It is a general text format used almost every
   <p>..........#.......</p>
 </details>
 
-**Drop Down Menu with options
-
-<input list="animals" name="animal" id="animal">
-
-<datalist id="animals">
-    <option value="Cat">
-    <option value="Dog">
-    <option value="Chicken">
-    <option value="Cow">
-    <option value="Pig">
-  </datalist>
   
 <!-- This is commented out. -->
 
@@ -101,3 +90,15 @@ DO NOT SCROLL
 ## **Links**
 
 [Link to first practice](practice1.md)
+
+<input list="animals" name="animal" id="animal">
+
+Drop Down Menu With Options
+
+<datalist id="animals">
+    <option value="Cat">
+    <option value="Dog">
+    <option value="Chicken">
+    <option value="Cow">
+    <option value="Pig">
+  </datalist>
